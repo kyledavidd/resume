@@ -5,7 +5,7 @@ export default function WorkExperience() {
       
       <div className="Job">
         <h4>Full Stack Developer</h4>
-        <p><strong>Facebook (Meta) - 2019 to present</strong></p>
+        <p><strong>Facebook (Meta) - 2033 to present</strong></p>
         <br></br>
         <ul>
           <li>Developed and maintained high-performance web applications, increasing user engagement by 30%.</li>
@@ -18,7 +18,7 @@ export default function WorkExperience() {
       
       <div className="Job">
         <h4>Senior Engineering Manager</h4>
-        <p><strong>PayPal - 2014 to 2019</strong></p>
+        <p><strong>PayPal - 2030 to 2033</strong></p>
         <br></br>
         <ul>
           <li>Resolved app incompatibility issues, reducing user-reporting incidents by 92%.</li>
@@ -30,7 +30,7 @@ export default function WorkExperience() {
 
       <div className="Job">
         <h4>IT Specialist</h4>
-        <p><strong>Microsoft - 2012 to 2014</strong></p>
+        <p><strong>Microsoft - 2026 to 2030</strong></p>
         <br></br>
         <ul>
           <li>PDelivered comprehensive technical support to over 200 employees, enhancing user satisfaction and minimizing downtime.</li>
