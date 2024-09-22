@@ -8,7 +8,7 @@ export default function Contact() {
       
         <p>(+63) 992-649-2991</p>
         <p>San Matias, Santo Tomas, Pampanga</p>
-        <a href="https://instagram.com/kyledavidd_">Instagram</a>
+        <a href="https://github.com/kyledavidd">Github</a>
         <br />
         <a href="https://www.facebook.com/kyledav1d">Facebook</a>
       </div>
