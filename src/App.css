@@ -121,14 +121,14 @@ a {
 }
 
 .Contact h1{
-  font-size: 30px;
+  font-size: 27px;
   margin-top: -20px;
   text-align: center;
   font-family: "Inconsolata", monospace;
 }
 
 .Education h1{
-  font-size: 30px;
+  font-size: 27px;
   text-align: center;
   font-family:monospace;
 }
@@ -136,7 +136,7 @@ a {
 
 
 .Skills h1{
-  font-size: 30px;
+  font-size: 27px;
   text-align: center;
   font-family:monospace;
 }
