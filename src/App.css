@@ -36,3 +36,122 @@
     transform: rotate(360deg);
   }
 }
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+
+.App{
+  text-align: center;
+  padding: 30px;
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.Resume {
+  border: 1px solid black;
+  height: 1000px;
+  width: 800px;
+  margin: auto;
+}
+
+.Header {
+  border-bottom: 2px solid black;
+  height: 130px;
+  background-color: #338078;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.Content {
+  display: flex;
+  height: 868px;
+}
+
+.LeftColumn {
+  flex: 1;
+  background-color: lightgrey;
+  padding: 30px;
+  text-align: left;
+}
+
+.Experience {
+  flex: 2;
+  padding: 20px;
+  text-align: left;
+}
+
+.Experience h1 {
+  text-align: center;
+  font-size: 28px; 
+  margin-bottom: 30px;
+}
+
+
+.Job {
+  margin-bottom: 20px;
+}
+
+.Job h4 {
+  font-size: 22px; /* Increase the size for the job titles */
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+h2, h3, h4 {
+  margin-bottom: 0px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+.Contact h1{
+  font-size: 30px;
+  margin-top: -20px;
+  text-align: center;
+  font-family: "Inconsolata", monospace;
+}
+
+.Education h1{
+  font-size: 30px;
+  text-align: center;
+  font-family:monospace;
+}
+
+
+
+.Skills h1{
+  font-size: 30px;
+  text-align: center;
+  font-family:monospace;
+}
+
+.Skills ul {
+  font-size: 18px;
+}
+
+.Header h1{
+  font-size: 30px;
+  font-family: "Inconsolata", monospace;
+}
+
+.Skills li,
+.Education li,
+.Contact li {
+  margin-bottom: 5px; 
+}
